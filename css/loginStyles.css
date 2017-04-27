@@ -1,0 +1,30 @@
+body {
+  background-image: url("../img/background.jpg");
+}
+
+#loginForm form {
+  display: block;
+  margin: 0 auto;
+}
+
+#loginHeader img {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 12px;
+}
+
+#hitmontop {
+  display: inline-block;
+  margin: 0 auto;
+  margin-top: -64px;
+}
+
+#hitmontopWrap {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}

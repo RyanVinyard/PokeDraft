@@ -1,0 +1,33 @@
+#registrationHeader img {
+  display: block;
+  margin: 0 auto;
+}
+
+#blastoise {
+  display: block;
+  margin: auto;
+  height: 200px;
+  margin-top: 26px;
+}
+
+body {
+  background-image: url("../img/background.jpg");
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  color: #2A2A57;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #2A2A57;
+  text-decoration: none;
+}
+
+a:hover {
+  text-shadow: 2px 2px 4px white;
+}
