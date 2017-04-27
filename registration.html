@@ -14,11 +14,15 @@
       <table id="accountRegistration" align="center">
         <tr>
           <td>Email:</td>
-          <td><input type="email" name="email" class="textInput"></td>
+          <td><input type="email" name="email" class="textInput" placeholder="Enter Email..." required></td>
         </tr>
         <tr>
           <td>Password:</td>
-          <td><input type="password" name="pass" class="textInput"></td>
+          <td><input type="password" id="password" class="textInput" placeholder="Enter password..." required></td>
+        </tr>
+        <tr>
+          <td>Confirm Password:</td>
+          <td><input type="password" id="confirmPass" placeholder="Make sure they match!" required></td>
         </tr>
         <tr>
           <td></td>
@@ -27,6 +31,8 @@
       </table>
       <a href="login.html"><p>I already have an account, take me back<p><a>
     <img id="blastoise" src="img/blastoise.gif">
+    <p>"Jazz for your soul"</p>
+    <p> -Blastoise</p>
     </form>
     <audio autoplay loop id="audio">
       <source src="img/ssanne.mp3" type="audio/mpeg">

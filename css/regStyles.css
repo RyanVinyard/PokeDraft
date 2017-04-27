@@ -1,13 +1,15 @@
 #registrationHeader img {
   display: block;
   margin: 0 auto;
+  margin-bottom: 12px;
 }
 
 #blastoise {
   display: block;
   margin: auto;
-  height: 200px;
+  height: 80%;
   margin-top: 26px;
+  opacity: 0.20;
 }
 
 body {

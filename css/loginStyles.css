@@ -17,6 +17,7 @@ body {
   display: inline-block;
   margin: 0 auto;
   margin-top: -64px;
+  height: 280px;
 }
 
 #hitmontopWrap {
